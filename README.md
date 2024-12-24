@@ -1,5 +1,10 @@
 # CineMatch - An Intelligent Movie Recommender System
  A movie recommendation system that uses machine learning to suggest films based on your preferences. Discover your next favorite movie with our intelligent recommendation engine.
+ 
+# Live Demo
+Explore the Movie Recommendation System live:
+[CineMatch - Movie Recommender App
+](https://cinematch-movies.streamlit.app/)
 
 ![Image](https://github.com/user-attachments/assets/6ca982ac-db65-475b-ac99-ae98053dbb89)
 
