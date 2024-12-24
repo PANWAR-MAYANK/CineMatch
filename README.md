@@ -1,6 +1,9 @@
 # CineMatch
  A movie recommendation system that uses machine learning to suggest films based on your preferences. Discover your next favorite movie with our intelligent recommendation engine.
 
+![Image](https://github.com/user-attachments/assets/6ca982ac-db65-475b-ac99-ae98053dbb89)
+
+
 # Fundamentals
  ## 1. Why?
  The project addresses the challenge of finding movies that match a user's preferences in a vast collection. By leveraging content-based filtering, this system provides personalized recommendations, making it easier for users to discover movies they'll enjoy. It also serves as a practical demonstration of machine learning, data preprocessing, and recommendation system concepts.
